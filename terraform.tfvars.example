@@ -1,0 +1,8 @@
+tenancy_ocid     = "ocid1.tenancy.oc1..XXXX"
+user_ocid        = "ocid1.user.oc1..XXXX"
+fingerprint      = "xx:xx:xx:xx:xx:xx:xx:xx:xx"
+private_key_path = "C:/path/to/oci_api_key.pem"
+region           = "uk-london-1"
+compartment_ocid = "ocid1.compartment.oc1..XXXX"
+ad               = "kIdk:UK-LONDON-1-AD-1"
+image_ocid       = "ocid1.image.oc1.XXXX"
