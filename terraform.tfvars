@@ -1,8 +1,0 @@
-tenancy_ocid     = "ocid1.tenancy.oc1..aaaaaaaa4glb4qwefhuygi3mjelfizsujnlrshtbhctsgqzr3umnu5bwbdrq"
-user_ocid        = "ocid1.user.oc1..aaaaaaaaascsjj7xb3ttl2lwzjy6zjtugzrueohmzf43fbli2kjdzyr5wcmq"
-fingerprint      = "7b:8e:4a:ba:80:a0:07:80:f8:17:b2:87:48:46:5c:26"
-private_key_path = "C:/Users/showu/.ssh/oci_api_key.pem"
-region           = "uk-london-1"
-compartment_ocid = "ocid1.compartment.oc1..aaaaaaaae3tsbulb62qesguhmc6656nba7pzflqh5p27jifwyf4lbqlom2hq"
-ad               = "kIdk:UK-LONDON-1-AD-1"
-image_ocid       = "ocid1.image.oc1.uk-london-1.aaaaaaaa5mffapulkylrrw2pcp3wjhbvzq3jz7hgvny7sqvclbh4swmyxf5a"
