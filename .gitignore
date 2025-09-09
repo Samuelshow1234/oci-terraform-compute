@@ -4,7 +4,7 @@
 .terraform.lock.hcl
 
 
+terraform.tfvars
 *.pem
 *.key
 *.pub
-.terraform.tfvars
